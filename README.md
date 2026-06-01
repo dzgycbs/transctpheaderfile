@@ -1,0 +1,2 @@
+# transctpheaderfile
+ctp头文件转换为pascal文件
